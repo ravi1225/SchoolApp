@@ -1,0 +1,12 @@
+{
+  "name": "ScholApp",
+  "displayName": "ScholApp",
+  "expo": {
+    "name": "ScholApp",
+    "slug": "ScholApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
